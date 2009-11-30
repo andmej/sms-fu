@@ -229,5 +229,5 @@ carriers:
     name: Vodafone (Japan - Toukai)
     value: @h.vodafone.ne.jp
   vodafone-spain: 
-    name: Vodafone (Japan - Spain)
+    name: Vodafone (Spain)
     value: @vodafone.es
